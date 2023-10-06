@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BlogusingReact/static/css/main.af32ceca.css",
+    "main.js": "/BlogusingReact/static/js/main.c4b7b1fc.js",
+    "index.html": "/BlogusingReact/index.html",
+    "main.af32ceca.css.map": "/BlogusingReact/static/css/main.af32ceca.css.map",
+    "main.c4b7b1fc.js.map": "/BlogusingReact/static/js/main.c4b7b1fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af32ceca.css",
+    "static/js/main.c4b7b1fc.js"
+  ]
+}
